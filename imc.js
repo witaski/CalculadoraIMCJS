@@ -61,3 +61,4 @@ const form = document.getElementById('form-imc').addEventListener('submit' , (e)
     iniciar();
     limparCampos();
 })
+/*Wellington*/
